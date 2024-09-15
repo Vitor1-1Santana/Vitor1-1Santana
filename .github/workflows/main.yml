@@ -1,0 +1,15 @@
+on:
+    schedule:
+      - cron: "0 22 * * *"
+
+jobs:
+  wakatime:
+    name: WakaTime
+    uses: lowlighter/metrics@v3.34
+    with:
+      filename: metrics.plugin.wakatime.svg
+      token: NOT_NEEDED
+      base: ""
+      plugin_wakatime: yes
+      plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+      plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
