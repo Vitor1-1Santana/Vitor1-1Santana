@@ -4,7 +4,7 @@
 
 Este é o meu perfil do GitHub, não tem nada de muito interessante aqui, a maioria dos meus projetos são privados mesmo...
 
-
+![Metrics](/github-metrics.svg)
 
 <!--
 **Vitor1-1Santana/Vitor1-1Santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
