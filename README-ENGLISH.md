@@ -1,4 +1,4 @@
-[Português](https://github.com/Vitor1-1Santana/Vitor1-1Santana/blob/134b09dfb0569218d5c62f2a7a961235cee10da0/README.md)
+[Português](README.md)
 
 ## Hi :)
 
