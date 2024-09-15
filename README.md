@@ -6,7 +6,7 @@ Este é o meu perfil do GitHub, não tem nada de muito interessante aqui, a maio
 
 ![Metrics](/github-metrics.svg)
 
-![Calendar](/metrics.plugin.isocalendar.svg)
+![Calendar](/metrics.plugin.calendar.svg)
 
 <!--
 **Vitor1-1Santana/Vitor1-1Santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
