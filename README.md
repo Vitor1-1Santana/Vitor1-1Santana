@@ -1,4 +1,4 @@
-[English](https://github.com/Vitor1-1Santana/Vitor1-1Santana/blob/01e7dc9ee399b549be2db02f2da440d33767fa99/README-ENGLISH.md)]
+[English](https://github.com/Vitor1-1Santana/Vitor1-1Santana/blob/01e7dc9ee399b549be2db02f2da440d33767fa99/README-ENGLISH.md)
 
 ## Olá :)
 
