@@ -4,8 +4,6 @@
 
 Este é o meu perfil do GitHub, não tem nada de muito interessante aqui, a maioria dos meus projetos são privados mesmo...
 
-![Metrics](/github-metrics.svg)
-
 ![Calendar](/metrics.plugin.calendar.svg)
 
 <!--
