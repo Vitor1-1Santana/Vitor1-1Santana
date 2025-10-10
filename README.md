@@ -4,7 +4,7 @@
 
 Este é o meu perfil do GitHub, não tem nada de muito interessante aqui, a maioria dos meus projetos são privados mesmo...
 
-![Calendar](/metrics.plugin.calendar.svg)
+![Metrics](https://metrics.lecoq.io/Vitor1-1Santana?template=classic&base.indepth=true&lines=1&activity=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&calendar=false&calendar.limit=1&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FSao_Paulo)
 
 <!--
 **Vitor1-1Santana/Vitor1-1Santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
