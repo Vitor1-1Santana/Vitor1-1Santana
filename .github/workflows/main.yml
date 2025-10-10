@@ -27,6 +27,7 @@ jobs:
 
           # Options
           template: classic
+          filename: metrics
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_calendar: yes
