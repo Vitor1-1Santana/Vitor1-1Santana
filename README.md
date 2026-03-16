@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 
 ## 📫 Como me Encontrar
 
-- **LinkedIn**: [Seu LinkedIn]
+- **LinkedIn**: www.linkedin.com/in/vitor-santana-6b17b3353
 
 ---
